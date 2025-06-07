@@ -11,31 +11,6 @@
 
 <p><strong>Confidentiality Statement:</strong> This document contains confidential and privileged information from Rekall Inc. Unauthorized use, disclosure, or distribution is prohibited.</p>
 
-<h2>Table of Contents</h2>
-<ul>
-  <li>Contact Information</li>
-  <li>Document History</li>
-  <li>Introduction</li>
-  <li>Assessment Objective</li>
-  <li>Methodology</li>
-  <li>Scope</li>
-  <li>Executive Summary</li>
-  <li>Vulnerability Overview</li>
-  <li>Vulnerability Findings</li>
-</ul>
-
-<h2>Contact Information</h2>
-<ul>
-  <li><strong>Company:</strong> PenTesters Anonymous</li>
-  <li><strong>Contact:</strong> Varyan Weesner, Team Lead</li>
-</ul>
-
-<h2>Document History</h2>
-<ul>
-  <li><strong>Version:</strong> 001</li>
-  <li><strong>Date:</strong> 2024-05-03</li>
-  <li><strong>Author:</strong> Varyan Weesner</li>
-</ul>
 
 <h2>Introduction</h2>
 <p>This assessment tested Rekall's systems for vulnerabilities using industry-standard tools and techniques. The objective was to uncover flaws in Rekall’s security architecture without prior system knowledge.</p>
@@ -111,6 +86,7 @@
   <li>172.22.117.10</li>
   <li>172.22.117.20</li>
   <li>172.22.117.100</li>
+  <li>one other host was supposed to be found as well, but the docker on the provided VM was not configured properly and myself nor the instructors could find a fix for it at the time.</li>
 </ul>
 
 <p><strong>Ports:</strong></p>
