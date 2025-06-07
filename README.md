@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Rekall Corporation - Penetration Test Report</title>
-</head>
+
 <body>
 
 <h1>Rekall Corporation</h1>
